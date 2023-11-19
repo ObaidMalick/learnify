@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./t-v-8.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Asar:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap"
+    />
+    <script src="script.js"></script>
+
+  </head>
+  <body>
+    <div class="tv-8">
+      <img class="text-icon2" alt="" src="./public/text.svg" />
+      <img class="tv-8-child" alt="" src="./public/group-139.svg" />
+      <button class="humpty-dumpty" onclick="playSound('Shutter.mp3')">
+        <div class="humpty-dumpty-child"></div>
+        <img class="humpty-dumpty-icon" alt="" src="./public/humpty-dumpty.svg" />
+      </button>
+    </div>
+
+    <script src="script.js">
+function playSound(soundFile) {
+  var audio = new Audio(soundFile);
+  audio.play();
+}
+
+    </script>
+  </body>
+</html>

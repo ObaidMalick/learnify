@@ -1,0 +1,404 @@
+.horse-child,
+.text-icon3 {
+  position: absolute;
+  top: 94.8px;
+  left: 531.7px;
+  width: 298.5px;
+  height: 52.8px;
+}
+.horse-child {
+  top: 182px;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 151px;
+  height: 51px;
+}
+.button-icon35 {
+  position: absolute;
+  top: 27px;
+  left: 42px;
+  width: 67px;
+  height: 112px;
+  object-fit: cover;
+}
+.horse-icon,
+.rectangle-parent18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 151px;
+  height: 165px;
+}
+.horse-icon {
+  top: 194.5px;
+  left: 15.6px;
+  width: 119.9px;
+  height: 26.9px;
+}
+.chick-child,
+.horse {
+  position: absolute;
+  width: 151px;
+}
+.horse {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 204px;
+  left: 215px;
+  height: 233px;
+}
+.chick-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  height: 165px;
+}
+.button-icon36 {
+  position: absolute;
+  top: 46px;
+  left: 25px;
+  width: 101px;
+  height: 74px;
+  object-fit: cover;
+}
+.chick,
+.chick-icon {
+  position: absolute;
+  top: 194.5px;
+  left: 19.4px;
+  width: 113.6px;
+  height: 26.9px;
+}
+.chick {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 455px;
+  left: 215px;
+  width: 151px;
+  height: 233px;
+}
+.deer-child,
+.deer-item {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  width: 160px;
+  height: 175px;
+}
+.deer-item {
+  top: 182px;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 150px;
+  height: 51px;
+}
+.button-icon37 {
+  position: absolute;
+  top: 46px;
+  left: 22px;
+  width: 105px;
+  height: 76px;
+  object-fit: cover;
+}
+.deer,
+.deer-icon {
+  position: absolute;
+  top: 194.8px;
+  left: 30.3px;
+  width: 90.9px;
+  height: 26.2px;
+}
+.deer {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 455px;
+  left: 410px;
+  width: 150px;
+  height: 233px;
+}
+.monkey-child,
+.monkey-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 152px;
+  height: 165px;
+}
+.monkey-item {
+  top: 182px;
+  height: 51px;
+}
+.button-icon38 {
+  position: absolute;
+  top: 46px;
+  left: 21px;
+  width: 110px;
+  height: 84px;
+  object-fit: cover;
+}
+.monkey,
+.monkey-icon {
+  position: absolute;
+  top: 197.4px;
+  left: 15.8px;
+  width: 122.5px;
+  height: 20.9px;
+}
+.monkey {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 455px;
+  left: 603px;
+  width: 152px;
+  height: 233px;
+}
+.button-icon39 {
+  position: absolute;
+  top: 54px;
+  left: 26px;
+  width: 100px;
+  height: 60px;
+  object-fit: cover;
+}
+.turtle,
+.turtle-icon {
+  position: absolute;
+  top: 197.6px;
+  left: 21.9px;
+  width: 106.6px;
+  height: 20.7px;
+}
+.turtle {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 455px;
+  left: 992px;
+  width: 151px;
+  height: 233px;
+}
+.sheep-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 150px;
+  height: 165px;
+}
+.button-icon40 {
+  position: absolute;
+  top: 26px;
+  left: 37px;
+  width: 77px;
+  height: 113px;
+  object-fit: cover;
+}
+.sheep,
+.sheep-icon {
+  position: absolute;
+  top: 194.5px;
+  left: 17px;
+  width: 115.1px;
+  height: 26.9px;
+}
+.sheep {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 204px;
+  left: 410px;
+  width: 150px;
+  height: 233px;
+}
+.button-icon41 {
+  position: absolute;
+  top: 37px;
+  left: 39px;
+  width: 74px;
+  height: 108px;
+  object-fit: cover;
+}
+.loin,
+.loin-icon1 {
+  position: absolute;
+  top: 194.5px;
+  left: 36.7px;
+  width: 79.6px;
+  height: 26.9px;
+}
+.loin {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 204px;
+  left: 603px;
+  width: 152px;
+  height: 233px;
+}
+.button-icon42 {
+  position: absolute;
+  top: 37px;
+  left: 31px;
+  width: 87px;
+  height: 106px;
+  object-fit: cover;
+}
+.bear,
+.bear-icon {
+  position: absolute;
+  top: 194.8px;
+  left: 29.1px;
+  width: 93.4px;
+  height: 26.2px;
+}
+.bear {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 204px;
+  left: 798px;
+  width: 150px;
+  height: 233px;
+}
+.button-icon43 {
+  position: absolute;
+  top: 38px;
+  left: 31px;
+  width: 92px;
+  height: 90px;
+  object-fit: cover;
+}
+.dog,
+.dog-icon {
+  position: absolute;
+  top: 194.5px;
+  left: 38.4px;
+  width: 77.6px;
+  height: 26.9px;
+}
+.dog {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 455px;
+  left: 798px;
+  width: 150px;
+  height: 233px;
+}
+.button-icon44 {
+  position: absolute;
+  top: 41px;
+  left: 19px;
+  width: 114.7px;
+  height: 98px;
+  object-fit: cover;
+}
+.elephant,
+.elephant-icon {
+  position: absolute;
+  top: 199.5px;
+  left: 13.5px;
+  width: 125.7px;
+  height: 17.5px;
+}
+.elephant {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 204px;
+  left: 992px;
+  width: 151px;
+  height: 233px;
+}
+.picsart-23-03-29-14-00-52-189-icon4 {
+  position: absolute;
+  top: 66px;
+  left: 1157px;
+  width: 105px;
+  height: 105px;
+  object-fit: cover;
+}
+.group-child22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 86.4px;
+  height: 95px;
+}
+.home-icon3,
+.vector-icon6 {
+  position: absolute;
+  top: 74px;
+  left: 26.8px;
+  width: 32.9px;
+  height: 14.8px;
+}
+.vector-icon6 {
+  top: 19.5px;
+  left: 22.9px;
+  width: 40.3px;
+  height: 40.9px;
+}
+.rectangle-parent19 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 71px;
+  left: 89px;
+  width: 86.4px;
+  height: 95px;
+}
+.tv-7 {
+  position: relative;
+  background-color: var(--color-sandybrown-300);
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+}
+@media screen and (max-width: 1200px) {
+  .tv-7 {
+    width: 1280%;
+  }
+}

@@ -1,0 +1,428 @@
+.group-item,
+.text-icon1 {
+  position: absolute;
+  top: 95.8px;
+  left: 527.2px;
+  width: 316.1px;
+  height: 52.8px;
+}
+.group-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 140px;
+  height: 154px;
+}
+.button-icon26 {
+  position: absolute;
+  top: 29px;
+  left: 46px;
+  width: 42px;
+  height: 106px;
+  object-fit: cover;
+}
+.group-inner,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 140px;
+  height: 154px;
+}
+.group-inner {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  height: 55px;
+}
+.one-icon {
+  position: absolute;
+  top: 12.5px;
+  left: 25.9px;
+  width: 80.9px;
+  height: 29.9px;
+}
+.button4,
+.rectangle-container {
+  position: absolute;
+  top: 174px;
+  left: 0;
+  width: 140px;
+  height: 55px;
+}
+.button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 205px;
+  left: 207px;
+  height: 229px;
+}
+.button-icon27 {
+  position: absolute;
+  top: 28px;
+  left: 36px;
+  width: 76px;
+  height: 105px;
+  object-fit: cover;
+}
+.button5,
+.six-icon {
+  position: absolute;
+  top: 12.5px;
+  left: 38.6px;
+  width: 63.3px;
+  height: 29.9px;
+}
+.button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 456px;
+  left: 207px;
+  width: 140px;
+  height: 229px;
+}
+.button-icon28 {
+  position: absolute;
+  top: 28px;
+  left: 37px;
+  width: 74px;
+  height: 106px;
+  object-fit: cover;
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 140px;
+  height: 56px;
+}
+.two-icon {
+  position: absolute;
+  top: 15.5px;
+  left: 22.5px;
+  width: 94.4px;
+  height: 29.9px;
+}
+.button6,
+.rectangle-parent3 {
+  position: absolute;
+  top: 173px;
+  left: 0;
+  width: 140px;
+  height: 56px;
+}
+.button6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 206px;
+  left: 397px;
+  height: 229px;
+}
+.button-icon29 {
+  position: absolute;
+  top: 26px;
+  left: 33px;
+  width: 82px;
+  height: 106px;
+  object-fit: cover;
+}
+.four-icon {
+  position: absolute;
+  top: 14.5px;
+  left: 17.5px;
+  width: 106.8px;
+  height: 29.9px;
+}
+.button7,
+.rectangle-parent5 {
+  position: absolute;
+  top: 173px;
+  left: 0;
+  width: 140px;
+  height: 55px;
+}
+.button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 207px;
+  left: 777px;
+  height: 228px;
+}
+.button-icon30 {
+  position: absolute;
+  top: 30px;
+  left: 36px;
+  width: 76px;
+  height: 105px;
+  object-fit: cover;
+}
+.button8,
+.nine-icon {
+  position: absolute;
+  top: 15.9px;
+  left: 24.8px;
+  width: 89.7px;
+  height: 29.1px;
+}
+.button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 458px;
+  left: 777px;
+  width: 140px;
+  height: 228px;
+}
+.button-icon31 {
+  position: absolute;
+  top: 29px;
+  left: 39px;
+  width: 71px;
+  height: 105px;
+  object-fit: cover;
+}
+.button9,
+.five-icon {
+  position: absolute;
+  top: 14.9px;
+  left: 28px;
+  width: 84.2px;
+  height: 29.1px;
+}
+.button9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 207px;
+  left: 967px;
+  width: 140px;
+  height: 228px;
+}
+.button-icon32 {
+  position: absolute;
+  top: 28px;
+  left: 37px;
+  width: 72px;
+  height: 107px;
+  object-fit: cover;
+}
+.button10,
+.three-icon {
+  position: absolute;
+  top: 16.8px;
+  left: 11px;
+  width: 115.3px;
+  height: 26.2px;
+}
+.button10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 206px;
+  left: 587px;
+  width: 140px;
+  height: 229px;
+}
+.button-icon33 {
+  position: absolute;
+  top: 31px;
+  left: 41px;
+  width: 70px;
+  height: 100px;
+  object-fit: cover;
+}
+.button11,
+.seven-icon {
+  position: absolute;
+  top: 15.5px;
+  left: 10.9px;
+  width: 117.3px;
+  height: 26.9px;
+}
+.button11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 457px;
+  left: 397px;
+  width: 140px;
+  height: 229px;
+}
+.button-icon34 {
+  position: absolute;
+  top: 29px;
+  left: 35px;
+  width: 76px;
+  height: 106px;
+  object-fit: cover;
+}
+.button12,
+.eight-icon {
+  position: absolute;
+  top: 14.5px;
+  left: 17.1px;
+  width: 106.9px;
+  height: 26.9px;
+}
+.button12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 457px;
+  left: 587px;
+  width: 140px;
+  height: 229px;
+}
+.button-wrapper,
+.button13 {
+  position: absolute;
+  width: 34px;
+  height: 98px;
+}
+.button13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 0;
+  background-image: url(./public/button19@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.button-wrapper {
+  top: 29px;
+  left: 5px;
+}
+.group-child17,
+.inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 140px;
+  height: 228px;
+}
+.group-child17 {
+  top: 173px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  height: 55px;
+}
+.ten-icon {
+  position: absolute;
+  top: 187.9px;
+  left: 30.6px;
+  width: 76.7px;
+  height: 29.1px;
+}
+.picsart-23-11-16-21-44-01-918-icon {
+  position: absolute;
+  top: 10px;
+  left: 9px;
+  width: 122px;
+  height: 138px;
+  object-fit: cover;
+}
+.div,
+.group-button {
+  position: absolute;
+  width: 140px;
+  height: 228px;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 0;
+}
+.div {
+  top: 458px;
+  left: 967px;
+}
+.picsart-23-03-29-14-00-52-189-icon2 {
+  position: absolute;
+  top: 67px;
+  left: 1157px;
+  width: 105px;
+  height: 105px;
+  object-fit: cover;
+}
+.group-child19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-linen);
+  box-shadow: 4px 4px 4px 1px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 86.4px;
+  height: 95px;
+}
+.home-icon1,
+.vector-icon4 {
+  position: absolute;
+  top: 74px;
+  left: 26.8px;
+  width: 32.9px;
+  height: 14.8px;
+}
+.vector-icon4 {
+  top: 19.5px;
+  left: 22.9px;
+  width: 40.3px;
+  height: 40.9px;
+}
+.rectangle-parent16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 72px;
+  left: 98px;
+  width: 86.4px;
+  height: 95px;
+}
+.tv-6 {
+  position: relative;
+  background-color: var(--color-sandybrown-300);
+  width: 100%;
+  height: 768px;
+  overflow: hidden;
+}
+@media screen and (max-width: 1200px) {
+  .tv-6 {
+    width: 1280%;
+  }
+}
